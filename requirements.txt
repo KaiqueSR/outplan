@@ -1,3 +1,7 @@
 flask
 flask-smorest
+flask-migrate
+flask-sqlalchemy
+sqlalchemy
+psycopg2-binary
 python-dotenv
